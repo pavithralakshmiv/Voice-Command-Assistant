@@ -1,6 +1,6 @@
 # Voice Control Assistant
 
-A beginner-friendly desktop voice assistant built using Python.
+A desktop voice assistant built using Python.
 
 ## Features
 
